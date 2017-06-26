@@ -4,6 +4,5 @@ li.textContent = i ;
   if(i%15==0){
      li.textContent="FizzBuzz";
   }
-    document.getElementById('list').appendChild(li);
   document.getElementById('list').appendChild(li);
 }
